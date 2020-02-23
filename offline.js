@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1582439103,
+	"version": 1582446471,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,11 @@
 		"images/spritefont.png",
 		"images/spritefont2.png",
 		"images/spritefont4.png",
+		"images/tiledbackground2.png",
+		"images/sprite11-sheet0.png",
+		"images/sprite12-sheet0.png",
+		"media/title theme - super mario world.m4a",
+		"media/title theme - super mario world.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
